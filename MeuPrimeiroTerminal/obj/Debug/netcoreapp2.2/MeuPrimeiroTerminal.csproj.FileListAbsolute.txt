@@ -1,0 +1,11 @@
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.2\MeuPrimeiroTerminal.deps.json
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.2\MeuPrimeiroTerminal.runtimeconfig.json
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.2\MeuPrimeiroTerminal.runtimeconfig.dev.json
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.2\MeuPrimeiroTerminal.dll
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.2\MeuPrimeiroTerminal.pdb
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.2\MeuPrimeiroTerminal.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.2\MeuPrimeiroTerminal.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.2\MeuPrimeiroTerminal.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.2\MeuPrimeiroTerminal.AssemblyInfo.cs
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.2\MeuPrimeiroTerminal.dll
+C:\Users\julia\Desktop\repositório aula\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.2\MeuPrimeiroTerminal.pdb
