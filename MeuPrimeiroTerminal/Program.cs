@@ -4,16 +4,24 @@ namespace MeuPrimeiroTerminal
 {
     class Program
     {
-        private static object cont ;
-
         static void Main(string[] args)
         {
-             string txt1 = "Hello World!";
-             string txt2 = "Julia, com idade de:";
-             int idade = 16;
-             string txt3 = $"{txt1} {txt2} {idade}";
             
-            Console.WriteLine(txt3);
+             string txt = "Digite a sua idade: ";
+             int idade = 0;
+             Console.WriteLine(txt);
+            string idadeEmString = Console.ReadLine();
+            idade = Convert.ToInt32(idadeEmString);
+
+            if(idade >10 && idade <15){
+                Console.WriteLine($"Vc é adolecente");
+            }     
+            else if(idade <=10){
+                Console.WriteLine($"Vc está novo!");
+               }
+               
+            Console.WriteLine($"Vc digitou: {idadeEmString}");
+
         }
     }
     
